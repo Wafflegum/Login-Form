@@ -5,4 +5,4 @@ This is a simple login form I've created to learn ExpressJS.
 - Add SQL database for user authentication
 
 ## Screenshots
-![Desktop](website%20preview/desktop.jpeg | width=600)
+<img src="website%20preview/desktop.jpeg" width="600">
